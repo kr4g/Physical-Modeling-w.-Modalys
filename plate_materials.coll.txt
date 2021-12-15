@@ -1,0 +1,11 @@
+Material, density young-base young-exp poisson const-loss pitch;
+Aluminium, 2700 7. 10. 0.35 1. 110;
+Bismuth, 9780 3. 2. 0.38 110;
+Brass, 8500 1. 11. 0.33 0.2 110;
+Bronze, 7400 9. 6. 0.34 110;
+Copper, 8940 1. 1. 0.35 110;
+Gold, 19300 7. 9. 0.43 110;
+Lead, 11340 1. 6. 0.43 110;
+Glass, 2300. 6.2 10. 0.2 0.8 110;
+Iron, 7800. 1. 9. 0.3 1. 110;
+Steel, 7700. 2. 11. 0.31 3. 110;
